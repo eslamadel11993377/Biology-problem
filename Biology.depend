@@ -1,0 +1,401 @@
+# depslib dependency file v1.0
+1544302727 source:c:\users\user\desktop\ass4\wwww\new folder\biology\main.cpp
+	<iostream>
+	<DNA.h>
+	<RNA.h>
+
+1544280963 source:c:\users\user\desktop\ass4\wwww\new folder\biology\src\sequence.cpp
+	"Sequence.h"
+	<bits/stdc++.h>
+
+1544280938 c:\users\user\desktop\ass4\wwww\new folder\biology\include\sequence.h
+
+1544302137 source:c:\users\user\desktop\ass4\wwww\new folder\biology\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+
+1544302137 c:\users\user\desktop\ass4\wwww\new folder\biology\include\dna.h
+	<Sequence.h>
+	<iostream>
+
+1544302046 source:c:\users\user\desktop\ass4\wwww\new folder\biology\src\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	<istream>
+
+1544301995 c:\users\user\desktop\ass4\wwww\new folder\biology\include\rna.h
+	<Sequence.h>
+	<DNA.h>
+	<iostream>
+
+1544303017 source:c:\users\gg\downloads\compressed\biology\biology\main.cpp
+	<iostream>
+	<DNA.h>
+	<RNA.h>
+
+1544372633 c:\users\gg\downloads\compressed\biology\biology\include\dna.h
+	<Sequence.h>
+	<iostream>
+
+1544372633 c:\users\gg\downloads\compressed\biology\biology\include\sequence.h
+
+1544301995 c:\users\gg\downloads\compressed\biology\biology\include\rna.h
+	<Sequence.h>
+	<DNA.h>
+	<iostream>
+
+1544372411 source:c:\users\gg\downloads\compressed\biology\biology\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+
+1544372731 source:c:\users\gg\downloads\compressed\biology\biology\src\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	<istream>
+
+1544372575 source:c:\users\gg\downloads\compressed\biology\biology\src\sequence.cpp
+	"Sequence.h"
+	<bits/stdc++.h>
+
+1544784459 source:d:\fci\thbyd\biology\main.cpp
+	<iostream>
+	"DNA.h"
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	"CodonsTable.h"
+	"Codon.h"
+
+1544723163 d:\fci\thbyd\biology\include\dna.h
+	<Sequence.h>
+	<iostream>
+
+1544732665 d:\fci\thbyd\biology\include\sequence.h
+	<bits/stdc++.h>
+
+1544784604 d:\fci\thbyd\biology\include\rna.h
+	<Sequence.h>
+	<DNA.h>
+	<iostream>
+	"Protein.h"
+
+1544732665 source:d:\fci\thbyd\biology\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+
+1544794344 source:d:\fci\thbyd\biology\src\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	<istream>
+	"Protein.h"
+	"Codon.h"
+	"CodonsTable.h"
+
+1544722047 source:d:\fci\thbyd\biology\src\sequence.cpp
+	"Sequence.h"
+	<bits/stdc++.h>
+
+1544382310 source:c:\users\user\desktop\ass4\biology\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+
+1544372633 c:\users\user\desktop\ass4\biology\include\dna.h
+	<Sequence.h>
+	<iostream>
+
+1544377634 c:\users\user\desktop\ass4\biology\include\sequence.h
+
+1544382782 c:\users\user\desktop\ass4\biology\include\rna.h
+	<Sequence.h>
+	<DNA.h>
+	<iostream>
+	"Protein.h"
+
+1544382962 source:c:\users\user\desktop\ass4\biology\src\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	<istream>
+	"Protein.h"
+	"Codon.h"
+	"CodonsTable.h"
+
+1544378038 source:c:\users\user\desktop\ass4\biology\src\sequence.cpp
+	"Sequence.h"
+	<bits/stdc++.h>
+
+1544380383 source:c:\users\user\desktop\ass4\biology\main.cpp
+	<iostream>
+	<DNA.h>
+	<RNA.h>
+
+1544381107 source:c:\users\user\desktop\ass4\biology\src\codonstable.cpp
+	"CodonsTable.h"
+	"Codon.h"
+	<istream>
+	<bits/stdc++.h>
+
+1544381073 c:\users\user\desktop\ass4\biology\include\codonstable.h
+	"Codon.h"
+
+1544380625 c:\users\user\desktop\ass4\biology\include\codon.h
+
+1544382375 c:\users\user\desktop\ass4\biology\include\protein.h
+	<Sequence.h>
+	<iostream>
+	"DNA.h"
+	"CodonsTable.h"
+
+1544384333 source:c:\users\user\desktop\ass4\biology\src\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+	"CodonsTable.h"
+	"Codon.h"
+
+1544386154 source:c:\users\gg\downloads\compressed\biology\src\codonstable.cpp
+	"CodonsTable.h"
+	"Codon.h"
+	<istream>
+	<bits/stdc++.h>
+
+1544381073 c:\users\gg\downloads\compressed\biology\include\codonstable.h
+	"Codon.h"
+
+1544380625 c:\users\gg\downloads\compressed\biology\include\codon.h
+
+1544437196 source:c:\users\gg\downloads\compressed\biology\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+
+1544435614 c:\users\gg\downloads\compressed\biology\include\dna.h
+	<Sequence.h>
+	<iostream>
+
+1544435760 c:\users\gg\downloads\compressed\biology\include\sequence.h
+
+1544435614 c:\users\gg\downloads\compressed\biology\include\rna.h
+	<Sequence.h>
+	<DNA.h>
+	<iostream>
+	"Protein.h"
+
+1544435614 c:\users\gg\downloads\compressed\biology\include\protein.h
+	<Sequence.h>
+	<iostream>
+	"DNA.h"
+	"CodonsTable.h"
+
+1544435801 source:c:\users\gg\downloads\compressed\biology\src\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+	"CodonsTable.h"
+	"Codon.h"
+
+1544435801 source:c:\users\gg\downloads\compressed\biology\src\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	<istream>
+	"Protein.h"
+	"Codon.h"
+	"CodonsTable.h"
+
+1544435407 source:c:\users\gg\downloads\compressed\biology\src\sequence.cpp
+	"Sequence.h"
+	<bits/stdc++.h>
+
+1544437196 source:c:\users\gg\downloads\compressed\biology\main.cpp
+	<iostream>
+	"DNA.h"
+	"RNA.h"
+	"DNA.h"
+
+1544725282 source:d:\fci\thbyd\new folder\main.cpp
+	<iostream>
+	"DNA.h"
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	"CodonsTable.h"
+	"Codon.h"
+
+1544723163 d:\fci\thbyd\new folder\include\dna.h
+	<Sequence.h>
+	<iostream>
+
+1544732665 d:\fci\thbyd\new folder\include\sequence.h
+	<bits/stdc++.h>
+
+1544732665 d:\fci\thbyd\new folder\include\rna.h
+	<Sequence.h>
+	<DNA.h>
+	<iostream>
+	"Protein.h"
+
+1544732665 d:\fci\thbyd\new folder\include\protein.h
+	<Sequence.h>
+	<iostream>
+	"DNA.h"
+	"CodonsTable.h"
+
+1544732665 d:\fci\thbyd\new folder\include\codonstable.h
+	"Codon.h"
+
+1544380625 d:\fci\thbyd\new folder\include\codon.h
+
+1544725442 source:d:\fci\thbyd\new folder\src\codonstable.cpp
+	"CodonsTable.h"
+	"Codon.h"
+	<istream>
+	<bits/stdc++.h>
+	"Protein.h"
+
+1544722047 source:d:\fci\thbyd\new folder\src\sequence.cpp
+	"Sequence.h"
+	<bits/stdc++.h>
+
+1544732530 source:d:\fci\thbyd\new folder\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+
+1544732074 source:d:\fci\thbyd\new folder\src\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+	"CodonsTable.h"
+	"Codon.h"
+
+1544732188 source:d:\fci\thbyd\new folder\src\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	<istream>
+	"Protein.h"
+	"Codon.h"
+	"CodonsTable.h"
+
+1544790070 d:\fci\thbyd\biology\include\protein.h
+	<Sequence.h>
+	<iostream>
+	"DNA.h"
+	"CodonsTable.h"
+
+1544732665 d:\fci\thbyd\biology\include\codonstable.h
+	"Codon.h"
+
+1544380625 d:\fci\thbyd\biology\include\codon.h
+
+1544732665 source:d:\fci\thbyd\biology\src\codonstable.cpp
+	"CodonsTable.h"
+	"Codon.h"
+	<istream>
+	<bits/stdc++.h>
+	"Protein.h"
+
+1544799312 source:d:\fci\thbyd\biology\src\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+	"CodonsTable.h"
+	"Codon.h"
+
+1544800472 source:c:\users\gg\downloads\compressed\biology_5\biology\main.cpp
+	<iostream>
+	"DNA.h"
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	"CodonsTable.h"
+	"Codon.h"
+
+1544800638 c:\users\gg\downloads\compressed\biology_5\biology\include\dna.h
+	<Sequence.h>
+	<iostream>
+
+1544732665 c:\users\gg\downloads\compressed\biology_5\biology\include\sequence.h
+	<bits/stdc++.h>
+
+1544800244 c:\users\gg\downloads\compressed\biology_5\biology\include\rna.h
+	<Sequence.h>
+	<DNA.h>
+	<iostream>
+	"Protein.h"
+
+1544800640 c:\users\gg\downloads\compressed\biology_5\biology\include\protein.h
+	<Sequence.h>
+	<iostream>
+	"DNA.h"
+	"CodonsTable.h"
+
+1544732665 c:\users\gg\downloads\compressed\biology_5\biology\include\codonstable.h
+	"Codon.h"
+
+1544380625 c:\users\gg\downloads\compressed\biology_5\biology\include\codon.h
+
+1544732665 source:c:\users\gg\downloads\compressed\biology_5\biology\src\codonstable.cpp
+	"CodonsTable.h"
+	"Codon.h"
+	<istream>
+	<bits/stdc++.h>
+	"Protein.h"
+
+1544732665 source:c:\users\gg\downloads\compressed\biology_5\biology\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+
+1544800244 source:c:\users\gg\downloads\compressed\biology_5\biology\src\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	<istream>
+	"Protein.h"
+	"Codon.h"
+	"CodonsTable.h"
+
+1544722047 source:c:\users\gg\downloads\compressed\biology_5\biology\src\sequence.cpp
+	"Sequence.h"
+	<bits/stdc++.h>
+
+1544800244 source:c:\users\gg\downloads\compressed\biology_5\biology\src\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+	"RNA.h"
+	"CodonsTable.h"
+	"Codon.h"
+
